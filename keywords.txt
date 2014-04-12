@@ -1,0 +1,94 @@
+#######################################
+
+# Syntax Coloring Map for Timer
+
+#######################################
+
+
+#######################################
+
+# Datatypes (KEYWORD1)
+
+#######################################
+
+
+
+timerCallBack_t	KEYWORD1
+
+timeElement	KEYWORD1
+
+p_timeElement	KEYWORD1
+
+Timer	KEYWORD1
+
+timer	KEYWORD1
+
+
+
+
+#######################################
+
+# Methods and Functions (KEYWORD2)
+
+#######################################
+
+
+
+startTimer	KEYWORD2
+
+cancelTimer	KEYWORD2
+
+configTimers	KEYWORD2
+
+normalizeTimeOut	KEYWORD2
+
+getPresentTime	KEYWORD2
+
+getCount	KEYWORD2
+
+
+setPeriod	KEYWORD2
+
+setRepeats	KEYWORD2
+
+setCallBack	KEYWORD2
+
+setArg	KEYWORD2
+
+setTimeOut	KEYWORD2
+
+modifyPeriod	KEYWORD2
+
+modifyRepeats	KEYWORD2
+
+modifyCallBack	KEYWORD2
+
+modifyArg	KEYWORD2
+
+modifyTimeOut	KEYWORD2
+
+getTimePeriod	KEYWORD2
+
+getTimeOut	KEYWORD2
+
+getRemaining	KEYWORD2
+
+# updateTimeOut	KEYWORD2 # Should only be called by ISR
+
+callFunction	KEYWORD2
+# clockTick	KEYWORD2 # Should only be called by ISR
+
+isFull	KEYWORD2
+
+
+
+
+#######################################
+
+# Constants (LITERAL1)
+
+#######################################
+
+
+
+MAX_LIST_PTRS	LITERAL1
